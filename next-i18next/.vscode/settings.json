@@ -1,7 +1,0 @@
-{
-  "i18n-ally.localesPaths": [
-    "examples/auto-static-optimize/public/locales",
-    "examples/ssg/public/locales",
-    "examples/simple/public/locales"
-  ]
-}
