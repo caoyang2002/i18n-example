@@ -1,0 +1,9 @@
+{
+  "i18n-ally.localesPaths": [
+    "2-next-admin/messages",
+    "5-next-simple/messages",
+    "7-next-button/messages",
+    "3-next/public/locales",
+    "5-next-simple/src/app/api/locale"
+  ]
+}
