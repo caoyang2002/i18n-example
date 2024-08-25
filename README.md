@@ -41,3 +41,55 @@ npm run dev
 ```
 
 http://localhost:3000
+
+# 5-next-simple
+
+![5](./DOC/images/5.png)
+
+```bash
+yarn dev
+```
+
+http://localhost:3000
+
+# 6-next
+
+![6](./DOC/images/6.png)
+
+```bash
+npm install
+npm run dev
+```
+
+http://localhost:3000
+
+# 7-next-menu
+
+![7](./DOC/images/7.png)
+
+```bash
+yarn dev
+```
+
+http://localhost:3000
+
+# 8-route
+
+![8](./DOC/images/8.png)
+
+```bash
+yarn dev
+```
+
+http://localhost:3000
+
+# Create
+
+```bash
+npx create-next-app --example app-dir-i18n-routing i18n-app
+
+```
+
+# Docs
+
+https://next-intl-docs.vercel.app/docs/usage
